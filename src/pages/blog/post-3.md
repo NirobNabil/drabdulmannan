@@ -1,5 +1,7 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: >-
+  How to stop Eye Watering/ চোখ দিয়ে পানি পড়ার কারন ও চিকিৎসা অধ্যাপক
+  ডা.আব্দুল মান্নান
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
@@ -14,7 +16,7 @@ excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
   inquit, me dixisse.
-thumb_image: images/classic/post-3.png
+thumb_image: images/pani_pora.jpg
 thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
 image_alt: Post 3 placeholder image
