@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dr. Md. Abdul Mannan
 sections:
   - type: hero_section
     title: Prof. Dr. Md. Abdul Mannan
@@ -7,8 +7,8 @@ sections:
     content: >-
       Chambers:
 
-      - Islamia Optical, 3/9 johnson road, Jagannath University Gate (opposite side),.
-      01732078323
+      - Islamia Optical, 3/9 johnson road, Jagannath University Gate (opposite
+      side),. 01732078323
 
       - Haji Shakhawat anwara Modern Hospital, 73 kakrail. 01715820613
 
@@ -16,10 +16,10 @@ sections:
       01732078323
     actions:
       - label: Youtube
-        url: https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA
+        url: 'https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA'
         style: primary
       - label: Facebook
-        url: https://www.facebook.com/profile.php?id=100009326688889
+        url: 'https://www.facebook.com/profile.php?id=100009326688889'
         style: secondary
     image: images/rainy-sloth.jpg
     image_alt: Hero section placeholder image
@@ -80,13 +80,6 @@ sections:
       - title: Cataract and Refractive surgery ( ছানি ও চশমাজনিত ত্রুটি )
         subtitle: ''
         content: ''
-        # actions:
-        #   - label: Learn More
-        #     url: /style-guide
-        #     style: primary
-        #     has_icon: true
-        #     icon: arrow-right
-        #     icon_position: right
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/xf-1BEtyIZs" frameborder="0"
@@ -126,13 +119,6 @@ sections:
       - title: LASER treatment (লেজার অপারেশন)
         subtitle: ''
         content: ''
-        # actions:
-        #   - label: Learn More
-        #     url: /style-guide
-        #     style: primary
-        #     has_icon: true
-        #     icon: arrow-right
-        #     icon_position: right
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/3jk8BiTtWzw" frameborder="0"
@@ -143,15 +129,12 @@ sections:
       - title: Glaucoma ( গ্লুকোমা )
         subtitle: ''
         content: ''
-        # actions:
-        #   - label: Learn More
-        #     url: /style-guide
-        #     style: primary
-        #     has_icon: true
-        #     icon: arrow-right
-        #     icon_position: right
         video_embed_html: >-
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/U7aM1O2_3Lk?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/U7aM1O2_3Lk?start=1"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+          encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: fifty
     feature_padding_vert: large
@@ -184,7 +167,7 @@ sections:
     subtitle: ''
     actions:
       - label: View All
-        url: https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA/videos
+        url: 'https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA/videos'
         style: primary
     blog_feed_cols: three
     enable_cards: true
