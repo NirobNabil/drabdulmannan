@@ -21,6 +21,7 @@ thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
 image_position: right
+link: https://youtu.be/lgjeE4-bcdo
 template: post
 ---
 

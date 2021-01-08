@@ -1,18 +1,17 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "portfolio page of Dr. Abdul Mannan",
     "layout": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "title": "Dr. Md. Abdul Mannan",
         "logo_alt": "DIY logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "",
                 "url": "/features",
                 "style": "link"
             },
@@ -37,7 +36,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "Contact",
@@ -50,7 +49,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
@@ -81,5 +80,5 @@
         ],
         "content": ""
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Dr. Abdul Mannan"
 }
