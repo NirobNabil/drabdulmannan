@@ -112,10 +112,7 @@ sections:
         media_width: fifty
       - title: "Lacrimal apparatus ( নেত্রনালি অপারেশন\_ )"
         subtitle: ''
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: ''
         actions:
           - label: Learn More
             url: /style-guide
