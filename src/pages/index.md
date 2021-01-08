@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Prof. Dr. Md. Abdul Mannan
-    subtitle: >-
-      Eye Department, Anwer Khan Modern Medical College & 73 kakrail, Haji
-      Shakhawat anwara Modern Hospital
+    subtitle: 'Eye Department, Anwer Khan Modern Medical College'
     content: '3/9 johnson road, Jagannath University Gate (opposite side) '
     actions:
       - label: Youtube
