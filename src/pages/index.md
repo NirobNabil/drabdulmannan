@@ -132,10 +132,7 @@ sections:
         media_width: fifty
       - title: LASER treatment
         subtitle: লেজার অপারেশন
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: ''
         actions:
           - label: Learn More
             url: /style-guide
