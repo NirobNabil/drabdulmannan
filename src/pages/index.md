@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Prof. Dr. Mannan
+    title: Prof. Dr. Md. Abdul Mannan
     subtitle: Anwar Khan Modern Medical College
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
