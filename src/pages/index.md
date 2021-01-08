@@ -130,7 +130,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
-      - title: LASER treatment ( laser operation )
+      - title: LASER treatment
         subtitle: লেজার অপারেশন
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
