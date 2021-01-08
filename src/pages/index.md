@@ -6,9 +6,7 @@ sections:
     subtitle: >-
       Eye Department, Anwer Khan Modern Medical College & 73 kakrail, Haji
       Shakhawat anwara Modern Hospital
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: '3/9 johnson road, Jagannath University Gate (opposite side) '
     actions:
       - label: Youtube
         url: /pricing
