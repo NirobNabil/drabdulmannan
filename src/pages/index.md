@@ -114,7 +114,7 @@ sections:
         subtitle: ''
         content: ''
         actions:
-          - label: Learn More
+          - label: ''
             url: /style-guide
             style: primary
             has_icon: true
