@@ -11,12 +11,12 @@ categories:
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/classic/post-1.png
+thumb_image: images/amazing-oregano.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
 image_position: right
-link: https://youtu.be/I4gIyh8060o
+link: 'https://youtu.be/I4gIyh8060o'
 template: post
 ---
 
