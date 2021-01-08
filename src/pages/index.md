@@ -131,7 +131,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: LASER treatment
-        subtitle: লেজার অপারেশন
+        subtitle: ''
         content: ''
         actions:
           - label: Learn More
