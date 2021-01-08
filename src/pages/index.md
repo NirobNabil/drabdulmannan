@@ -130,7 +130,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
-      - title: LASER treatment
+      - title: LASER treatment (লেজার অপারেশন)
         subtitle: ''
         content: ''
         actions:
