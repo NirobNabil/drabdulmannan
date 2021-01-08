@@ -1,6 +1,7 @@
 ---
 title: >-
-  How to Increase Vision of Eyes/Eyesight। চোখের দৃষ্টি বৃদ্ধি করার উপায়। অধ্যাপক ডা:মো:আব্দুল মান্নান
+  How to Increase Vision of Eyes/Eyesight। চোখের দৃষ্টি বৃদ্ধি করার উপায়।
+  অধ্যাপক ডা:মো:আব্দুল মান্নান
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
@@ -15,12 +16,12 @@ excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
-thumb_image: images/2021-01-08_19-28.png
+thumb_image: images/mqdefault.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
 image_position: right
-link: https://youtu.be/HGEt1euw0QE
+link: 'https://youtu.be/HGEt1euw0QE'
 template: post
 ---
 
