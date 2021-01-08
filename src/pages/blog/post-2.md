@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: Lens(IOL) এর সঠিক পাওয়ার নির্ণয় করার আধুনিক উপায়( IOL Master)| অধ্যাপক ডাঃ মোঃ আবদুল মান্নান
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
@@ -19,7 +19,7 @@ thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
 image_alt: Post 2 placeholder image
 image_position: left
-link: https://youtu.be/lgjeE4-bcdo
+link: https://youtu.be/LpmUv5Ogx9Q
 template: post
 ---
 

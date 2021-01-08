@@ -94,22 +94,6 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
-      - title: Oculoplastic surgery ( বাকা চোখের অপারেশন )
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        # actions:
-        #   - label: Learn More
-        #     url: /style-guide
-        #     style: primary
-        #     has_icon: true
-        #     icon: arrow-right
-        #     icon_position: right
-        video_embed_html: <iframe width="560" height="315" src="https://www.youtube.com/embed/QInPHeEzGco?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
       - title: "Lacrimal apparatus ( নেত্রনালি অপারেশন )"
         subtitle: ''
         content: ''
@@ -121,6 +105,22 @@ sections:
         #     icon: arrow-right
         #     icon_position: right
         image: images/20201103_095320.jpg
+        media_position: left
+        media_width: fifty
+      - title: Oculoplastic surgery ( বাকা চোখের অপারেশন )
+        # content: >-
+        #   Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+        #   diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+        #   euismod lacinia.
+        # actions:
+        #   - label: Learn More
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
+        video_embed_html: <iframe width="560" height="315" src="https://www.youtube.com/embed/QInPHeEzGco?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
       - title: LASER treatment (লেজার অপারেশন)
@@ -189,7 +189,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
-    recent_count: 3
+    recent_count: 6
     show_image: true
     show_date: false
     show_categories: false
