@@ -7,7 +7,7 @@ sections:
     content: >-
       Chambers:
 
-      - 3/9 johnson road, Jagannath University Gate (opposite side),.
+      - Islamia Optical, 3/9 johnson road, Jagannath University Gate (opposite side),.
       01732078323
 
       - Haji Shakhawat anwara Modern Hospital, 73 kakrail. 01715820613
@@ -16,10 +16,10 @@ sections:
       01732078323
     actions:
       - label: Youtube
-        url: /pricing
+        url: https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA
         style: primary
       - label: Facebook
-        url: /features
+        url: https://www.facebook.com/profile.php?id=100009326688889
         style: secondary
     image: images/rainy-sloth.jpg
     image_alt: Hero section placeholder image
@@ -30,7 +30,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: cta_section
-    title: null
+    title: Biodata
     content: >-
       অধ্যাপক ডাঃ মো; আব্দুল মান্নান, তিনি চাঁদপুর জেলার ফরিদগঞ্জে জন্মগ্রহন
       করেন। তিনি স্যার সলিমুল্লাহ কলেজ থেকে ১৯৯৪ সালে এম.বি.বি.এস ডিগ্রি অর্জন
@@ -75,18 +75,18 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Services
-    subtitle: Features Section Example
+    subtitle: ''
     features:
-      - title: Cataract and Refractive surgery ( chani and choshmajonito truti)
+      - title: Cataract and Refractive surgery ( ছানি ও চশমাজনিত ত্রুটি )
         subtitle: ''
         content: ''
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        # actions:
+        #   - label: Learn More
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/xf-1BEtyIZs" frameborder="0"
@@ -94,56 +94,65 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
-      - title: Oculoplastic surgery ( squint eye/baka chokh )
+      - title: Oculoplastic surgery ( বাকা চোখের অপারেশন )
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/20201103_095320.jpg
+        # actions:
+        #   - label: Learn More
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
+        video_embed_html: <iframe width="560" height="315" src="https://www.youtube.com/embed/QInPHeEzGco?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: "Lacrimal apparatus ( নেত্রনালি অপারেশন\_ )"
+      - title: "Lacrimal apparatus ( নেত্রনালি অপারেশন )"
         subtitle: ''
         content: ''
-        actions:
-          - label: ''
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/hOmHlIYoTE8" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+        # actions:
+        #   - label: ''
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
+        image: images/20201103_095320.jpg
         media_position: right
         media_width: fifty
       - title: LASER treatment (লেজার অপারেশন)
         subtitle: ''
         content: ''
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        # actions:
+        #   - label: Learn More
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/3jk8BiTtWzw" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
-        youtube: k51d-szCwI4
         media_position: left
+        media_width: fifty
+      - title: Glaucoma ( গ্লুকোমা )
+        subtitle: ''
+        content: ''
+        # actions:
+        #   - label: Learn More
+        #     url: /style-guide
+        #     style: primary
+        #     has_icon: true
+        #     icon: arrow-right
+        #     icon_position: right
+        video_embed_html: >-
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/U7aM1O2_3Lk?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        media_position: right
         media_width: fifty
     feature_padding_vert: large
     align: center
@@ -153,7 +162,7 @@ sections:
     subtitle: ''
     grid_items:
       - title: Haji Shakhawat Anwara Hospital
-        subtitle: '73 kakrail, dhaka. 017xxxxxxxx'
+        subtitle: '73 kakrail, dhaka. 01715820613'
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
@@ -169,13 +178,13 @@ sections:
         image_position: top
     grid_cols: three
     align: center
-    background_color: secondary
+    background_color: primary
   - type: blog_feed_section
     title: Youtube Videos
     subtitle: ''
     actions:
       - label: View All
-        url: /blog
+        url: https://www.youtube.com/channel/UCSrdgEUIpRQMtD8cACO6eZA/videos
         style: primary
     blog_feed_cols: three
     enable_cards: true
