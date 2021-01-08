@@ -134,6 +134,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/NAR_Diab_PanFocLsr_fullscreen_poster.jpg
     feature_padding_vert: large
     align: center
     background_color: secondary
