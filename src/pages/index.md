@@ -65,7 +65,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: Cataract and Refractive surgery ( chani
+      - title: Cataract and Refractive surgery ( chani )
         subtitle: ''
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
