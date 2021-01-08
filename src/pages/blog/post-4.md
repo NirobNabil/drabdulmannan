@@ -1,6 +1,6 @@
 ---
 title: >-
-  "How to prevent Headache"/ মাথা ব্যাথার কারণ ও চিকিৎসা অধ্যাপক ডা.মোঃ আব্দুল
+  How to prevent Headache"/ মাথা ব্যাথার কারণ ও চিকিৎসা অধ্যাপক ডা.মোঃ আব্দুল
   মান্নান
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
