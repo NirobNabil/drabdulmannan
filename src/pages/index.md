@@ -62,7 +62,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Services
     subtitle: Features Section Example
     features:
       - title: Cataract and Refractive surgery ( chani and choshmajonito truti)
