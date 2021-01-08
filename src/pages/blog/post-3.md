@@ -6,7 +6,7 @@ subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
 date: '2020-05-28'
-author: src/data/team/gustav-purpleson.yaml
+author: Dr. Md. Abdul Mannan
 categories:
   - src/data/categories/general.yaml
 tags:
@@ -21,6 +21,7 @@ thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
 image_alt: Post 3 placeholder image
 image_position: top
+link: https://youtu.be/hOmHlIYoTE8
 template: post
 ---
 
