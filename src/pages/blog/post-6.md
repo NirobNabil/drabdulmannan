@@ -1,7 +1,6 @@
 ---
 title: >-
-  How to remove dark circles from eyes| চোখের কালো দাগ দূর করার উপায়| অধ্যাপক
-  ডাঃ মোঃ আবদুল মান্নান
+  How to Increase Vision of Eyes/Eyesight। চোখের দৃষ্টি বৃদ্ধি করার উপায়। অধ্যাপক ডা:মো:আব্দুল মান্নান
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
@@ -21,7 +20,7 @@ thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
 image_position: right
-link: https://youtu.be/lgjeE4-bcdo
+link: https://youtu.be/HGEt1euw0QE
 template: post
 ---
 

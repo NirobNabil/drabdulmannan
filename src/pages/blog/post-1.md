@@ -1,10 +1,10 @@
 ---
-title: How to remove dark circles from eyes| চোখের কালো দাগ দূর করার উপায়| অধ্যাপক ডাঃ মোঃ আবদুল মান্নান
+title: Modern Treatment of Eye Blood Loss. চোখের রক্ত ক্ষরনের আধুনিক চিকিৎসা
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
 date: '2020-04-16'
-author: src/data/team/dianne-ameter.yaml
+author: https://youtu.be/lgjeE4-bcdo
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
@@ -16,6 +16,7 @@ thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
 image_position: right
+link: https://youtu.be/I4gIyh8060o
 template: post
 ---
 

@@ -15,7 +15,10 @@ export default class BlogPostFeedItem extends React.Component {
         let has_image = false;
         let show_image = false;
         let no_image = false;
-        let show_categories = false;
+				let show_categories = false;
+				console.log("post");
+				console.log(post);
+				window.x = this.props;
         if (_.get(blog_feed_section, 'enable_cards', null)) {
              is_card = true;
         }
@@ -38,7 +41,7 @@ export default class BlogPostFeedItem extends React.Component {
                 		<div className="flex flex-column">
                 			{(has_image && show_image) && (
                 			<div className={classNames('item__media', 'mb-3', {'card__media': is_card, 'card__media--fill': is_card, 'card__media--top': is_card})}>
-                				<Link to={withPrefix(_.get(post, 'url', null))}><img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} /></Link>
+                				<a href={_.get(post, 'link', null)}><img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} /></a>
                 			</div>
                 			)}
                 			<div className={classNames('item__body', {'px-3': is_card, 'pb-3': is_card, 'pt-3': is_card && no_image, 'px-sm-4': is_card, 'pb-sm-4': is_card, 'pt-4': is_card && no_image})}>
@@ -56,9 +59,9 @@ export default class BlogPostFeedItem extends React.Component {
                 				</div>
                 				)}
                 				{_.get(blog_feed_section, 'title', null) ? (
-                					<h3 className={classNames('item__title', 'mt-0', {'h3': columns === 'two', 'h4': columns === 'three'})}><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h3>
+                					<h3 className={classNames('item__title', 'mt-0', {'h3': columns === 'two', 'h4': columns === 'three'})}><a href={_.get(post, 'frontmatter.link', null)}>{_.get(post, 'frontmatter.title', null)}</a></h3>
                 				) : 
-                					<h2 className={classNames('item__title', 'mt-0', {'h3': columns === 'two', 'h4': columns === 'three'})}><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h2>
+                					<h2 className={classNames('item__title', 'mt-0', {'h3': columns === 'two', 'h4': columns === 'three'})}><a href={_.get(post, 'frontmatter.link', null)}>{_.get(post, 'frontmatter.title', null)}</a></h2>
                 				}
                 				{(_.get(blog_feed_section, 'show_excerpt', null) && _.get(post, 'frontmatter.excerpt', null)) && (
                 				<div className="item__copy">
