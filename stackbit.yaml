@@ -418,6 +418,10 @@ models:
         description: >-
           The featured image position in the blog post relative to the post
           header content
+      - type: string
+        name: link
+        label: yt_link
+        description: yt link
   advanced:
     type: page
     label: Advanced page
