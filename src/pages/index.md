@@ -15,7 +15,7 @@ sections:
       - label: Chamber
         url: /features
         style: secondary
-    image: images/20201230_121300.jpg
+    image: images/rainy-sloth.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
