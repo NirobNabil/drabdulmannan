@@ -129,7 +129,7 @@
                 "label": "Vimeo",
                 "url": "https://vimeo.com/",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "vimeo",
                 "icon_position": "center",
                 "new_window": true
