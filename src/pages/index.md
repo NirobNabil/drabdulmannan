@@ -12,7 +12,7 @@ sections:
       - label: Youtube
         url: /pricing
         style: primary
-      - label: Chamber
+      - label: Facebook
         url: /features
         style: secondary
     image: images/rainy-sloth.jpg
