@@ -7,7 +7,6 @@
     "base_font": "serif",
     "header": {
         "title": "Dr. Md. Abdul Mannan",
-        "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
