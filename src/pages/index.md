@@ -2,19 +2,26 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    title: Prof. Dr. Md. Abdul Mannan
+    subtitle: 'Eye Department, Anwer Khan Modern Medical College'
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Chambers:
+
+      - 3/9 johnson road, Jagannath University Gate (opposite side),.
+      01732078323
+
+      - Haji Shakhawat anwara Modern Hospital, 73 kakrail. 01715820613
+
+      - Malek Momina Eye hospital, Tora Munshirhat, Faridganj, Chandpur.
+      01732078323
     actions:
-      - label: Try Free
+      - label: Youtube
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Facebook
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/rainy-sloth.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -55,15 +62,12 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Services
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: Cataract and Refractive surgery ( chani and choshmajonito truti)
+        subtitle: ''
+        content: ''
         actions:
           - label: Learn More
             url: /style-guide
@@ -71,11 +75,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/Mature-diabetic-cataract-in-a-dog.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Oculoplastic surgery ( squint eye/baka chokh )
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
@@ -87,11 +91,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/20201103_095320.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Lacrimal apparatus ( netronali operation )
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -104,10 +108,33 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
+        image: images/Bellevue-ENT-blocked-tear-duct-nasolacrimal-255x300.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
+      - title: Galucoma Surgery
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/NAR_Diab_PanFocLsr_fullscreen_poster.jpg
     feature_padding_vert: large
     align: center
     background_color: secondary
