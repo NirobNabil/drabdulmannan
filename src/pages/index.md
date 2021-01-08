@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Prof. Dr. Mannan
-    subtitle: Optional hero section subtitle
+    subtitle: Anwar Khan Modern Medical College
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
