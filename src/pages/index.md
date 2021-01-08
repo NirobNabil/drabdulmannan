@@ -11,7 +11,7 @@ sections:
       - label: Youtube
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Chamber
         url: /features
         style: secondary
     image: images/classic/hero.png
