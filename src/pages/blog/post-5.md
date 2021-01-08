@@ -1,7 +1,5 @@
 ---
-title: >-
-  How to remove dark circles from eyes| চোখের কালো দাগ দূর করার উপায়| অধ্যাপক
-  ডাঃ মোঃ আবদুল মান্নান
+title: 'How to remove dark circles from eyes| '
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
