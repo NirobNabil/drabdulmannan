@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Dr. Md. Abdul Mannan
 sections:
   - type: hero_section
     title: Prof. Dr. Md. Abdul Mannan
