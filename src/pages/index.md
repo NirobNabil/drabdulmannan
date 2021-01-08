@@ -6,8 +6,8 @@ sections:
     subtitle: 'Eye Department, Anwer Khan Modern Medical College'
     content: |-
       Chambers:
-      3/9 johnson road, Jagannath University Gate (opposite side),  
-      73 kakrail, Haji Shakhawat anwara Modern Hospital
+      - 3/9 johnson road, Jagannath University Gate (opposite side),  
+      - 73 kakrail, Haji Shakhawat anwara Modern Hospital
     actions:
       - label: Youtube
         url: /pricing
