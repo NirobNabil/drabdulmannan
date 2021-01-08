@@ -16,9 +16,6 @@ export default class BlogPostFeedItem extends React.Component {
         let show_image = false;
         let no_image = false;
 				let show_categories = false;
-				console.log("post");
-				console.log(post);
-				window.x = this.props;
         if (_.get(blog_feed_section, 'enable_cards', null)) {
              is_card = true;
         }
