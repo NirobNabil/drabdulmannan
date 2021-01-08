@@ -1,5 +1,7 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: >-
+  BD 9+ "How to prevent Headache"/ মাথা ব্যাথার কারণ ও চিকিৎসা অধ্যাপক ডা.মোঃ
+  আব্দুল মান্নান
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
