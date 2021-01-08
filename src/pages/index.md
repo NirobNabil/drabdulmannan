@@ -65,7 +65,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: Cataract and Refractive surgery ©hani
+      - title: Cataract and Refractive surgery hani
         subtitle: ''
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
