@@ -4,11 +4,16 @@ sections:
   - type: hero_section
     title: Prof. Dr. Md. Abdul Mannan
     subtitle: 'Eye Department, Anwer Khan Modern Medical College'
-    content: |-
+    content: >-
       Chambers:
-      - 3/9 johnson road, Jagannath University Gate (opposite side),  
-      - Haji Shakhawat anwara Modern Hospital, 73 kakrail
-      - Malek Momina Eye hospital, Tora Munshirhat, Faridganj, Chandpur
+
+      - 3/9 johnson road, Jagannath University Gate (opposite side),.
+      01732078323
+
+      - Haji Shakhawat anwara Modern Hospital, 73 kakrail. 01715820613
+
+      - Malek Momina Eye hospital, Tora Munshirhat, Faridganj, Chandpur.
+      01732078323
     actions:
       - label: Youtube
         url: /pricing
