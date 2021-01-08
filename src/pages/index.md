@@ -7,7 +7,8 @@ sections:
     content: |-
       Chambers:
       - 3/9 johnson road, Jagannath University Gate (opposite side),  
-      - 73 kakrail, Haji Shakhawat anwara Modern Hospital
+      - Haji Shakhawat anwara Modern Hospital, 73 kakrail
+      - Malek Momina Eye hospital, Tora Munshirhat, Faridganj, Chandpur
     actions:
       - label: Youtube
         url: /pricing
