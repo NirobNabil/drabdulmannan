@@ -135,7 +135,7 @@ sections:
       - title: Haji Shakhawat Anwara Hospital
         subtitle: '73 kakrail, dhaka. 01715820613'
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/20201230_121300(1).jpg
         image_position: top
       - title: Islamia Optical
         subtitle: 'Opposite of Jagannath University, sadarghat'
