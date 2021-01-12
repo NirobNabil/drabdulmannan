@@ -145,7 +145,7 @@ sections:
       - title: Malek Momina Eye Hospital
         subtitle: 'Tora Munshirhat, Faridganj, Chandpur'
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/20201218_190100.jpg
         image_position: top
     grid_cols: three
     align: center
