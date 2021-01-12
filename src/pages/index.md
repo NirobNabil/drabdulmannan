@@ -140,7 +140,7 @@ sections:
       - title: Islamia Optical
         subtitle: 'Opposite of Jagannath University, sadarghat'
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/20200920_205718.jpg
         image_position: top
       - title: Malek Momina Eye Hospital
         subtitle: 'Tora Munshirhat, Faridganj, Chandpur'
