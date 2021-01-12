@@ -138,7 +138,9 @@ sections:
         image: images/20200922_160556.jpg
         image_position: top
       - title: Islamia Optical
-        subtitle: 'Opposite of Jagannath University, sadarghat'
+        subtitle: >-
+          3/7 johnson road, Opposite of Jagannath University main gate,
+          sadarghat, dhaka
         title_align: center
         image: images/20200920_205718.jpg
         image_position: top
