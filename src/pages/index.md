@@ -138,17 +138,17 @@ sections:
       - title: Haji Shakhawat Anwara Hospital
         subtitle: '73 kakrail, dhaka. 01715820613'
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/hajishakhawat.jpg
         image_position: top
       - title: Islamia Optical
         subtitle: 'Opposite of Jagannath University, sadarghat'
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/islamiaoptical.jpg
         image_position: top
       - title: Malek Momina Eye Hospital
         subtitle: 'Tora Munshirhat, Faridganj, Chandpur'
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/malekmomina.jpg
         image_position: top
     grid_cols: three
     align: center
